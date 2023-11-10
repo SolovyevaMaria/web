@@ -1,0 +1,37 @@
+h1 {
+	color: purple !important
+}
+h2 {
+	color: orange
+}
+a {
+	text-decoration: none;
+}
+a: link {
+	color: yellow
+}
+a: visited: {
+	color: red
+}
+a: hower {
+	color: black;
+}
+body {
+	font-family: sans-serif;
+}
+img {
+	cursor: pointer;
+}
+.pic {
+	margin: 50px;
+	padding: 50
+ 	background: blue;
+ 	border: 10px solid black;
+ 	width: 300px;
+}
+img: hower {
+	width: 50%;
+}
+.header:hover {
+    text-decoration: underline;
+}
